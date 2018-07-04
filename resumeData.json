@@ -1,26 +1,22 @@
 ﻿{
+
   "main": {
     "name": "Yi-Hsiu Pan (Carrie)",
     "occupation": "Web developer and PHP programmer",
     "description": "I program websites and web applications of all types.",
     "image": "profile.jpg",
     "bio": "I program websites and web applications of all types.",
-    "email": "i7807@yahoo.com.tw",
-    "phone": "0972-623-586",
+    "email": "i7807@yahoo.com.tw   yanzi7807@gmail.com",
+    "phone": "請用EMAIL與我聯絡",
     "address": {
       "street": "",
       "city": "Taipei",
-      "state": "",
+      "state": " ",
       "zip": "10658"
     },
     "website": "http://carriepan7807.gfwh.0lx.net/example-1/",
     "resumedownload": "",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/YiHsiuPan",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/yi-hsiu-pan-66b7b158/",
@@ -30,6 +26,11 @@
 	"name":"github",
         "url":"https://github.com/carrie-pan/",
         "className":"fa fa-github"
+      },
+      {
+	"name":"bitbucket",
+        "url":"https://bitbucket.org/carriepan7807/",
+        "className":"fa fa-bitbucket"
       }
     ]
   },
@@ -38,7 +39,7 @@
       {
         "school": "Lunghwa University of Science and Technology",
         "degree": "Department Of Information Management(資訊管理系)",
-        "graduated": "06/2011",
+        "graduated": "2011 年 6 月",
         "description": "在大三的時候進行專題製作，主題為音樂卡片製作，以FACEBOOK為平台，在為期一年的專題中，我學會了團隊合作、規劃專案並將成果呈現。"
       }
     ],
@@ -147,8 +148,8 @@
         "user": "John Doe"
       },
       {
-	"text": "我們擔心煩惱與改變，害怕揭露，恐懼談論內心的痛苦。痛苦經常給人失敗的感覺，但它其實是通往成長的大門；無論你幾歲，成長總是讓人感到痛苦。",
-	"user": "May Sarton"
+        "text": "我們擔心煩惱與改變，害怕揭露，恐懼談論內心的痛苦。痛苦經常給人失敗的感覺，但它其實是通往成長的大門；無論你幾歲，成長總是讓人感到痛苦。",
+        "user": "May Sarton"
       }
     ]
   }
